@@ -1,0 +1,94 @@
+
+/************ Purple Color Css ********************************************
+* Template Name: Dalila - Personal Portfolio Template
+* Author: azmed-thems
+* Author URI: https://themeforest.net/user/azmed-themes
+* Version: 1.0
+* Tags: html, Parallax, template, Portfolio, marketing, Personal, Dalila
+
+**************************************************************************/
+.skin-color,
+span {
+    color: #ab47bc
+}
+
+.option-box .option-box-icon i {
+    color: #ab47bc
+}
+
+.nav-wrapper .navbar-toggle .icon-bar {
+	background-color: #ab47bc  
+}
+
+.nav-wrapper .nav>li>a:hover,
+.nav-wrapper .nav>li>a.active {
+	color: #ab47bc
+}
+
+.nav-sticky {
+    box-shadow: 0px 1px 27px -3px rgba(0, 0, 0, .2)
+
+}
+
+.social-list li a {
+    border: 1px solid #ab47bc;
+    background: #ab47bc;
+
+}
+.social-list li a:hover {
+    border-color:  #ab47bc;
+    background-color: transparent;
+    color: #ab47bc;
+}
+
+
+.about-button .main-btn {
+    background-color: #ab47bc;
+    border: 2px solid #ab47bc;
+}
+.about-button .main-btn:hover {
+    border: 2px solid #ab47bc;
+    background-color: transparent;
+    color: #ab47bc;
+}
+
+
+#Services .single-service-item i {
+    color:#ab47bc
+}
+#Services .single-service-item:hover h3 {
+    color:#ab47bc
+}
+
+.portfolio-wrapper ul.filter li a.active {
+    background: #ab47bc
+}
+.portfolio-wrapper .portfolio-content .work-overlay  {
+    background-color: rgba(171, 71, 188,.8)
+       
+}
+
+
+.contact-item .c-icon {
+    background-color: #ab47bc;
+    border: 1px solid #ab47bc
+}
+
+.submit-btn {
+    border: 2px solid #ab47bc;
+    background-color: #ab47bc
+}
+
+.submit-btn:hover {
+    border: 2px solid #ab47bc;
+    color: #ab47bc
+}
+
+.scroll-to-top {
+	border: 2px solid #ab47bc;
+    background-color: #ab47bc
+}    
+.scroll-to-top:hover {
+    border: 2px solid #ab47bc;
+    background-color: transparent
+}
